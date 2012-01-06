@@ -1,4 +1,6 @@
 * text=auto !eol
 lang/paquet-squelettes_par_rubrique.xml -text
+lang/paquet-squelettes_par_rubrique_en.php -text
+lang/paquet-squelettes_par_rubrique_sk.php -text
 /squelettes_par_rubrique-32.png -text
 /squelettes_par_rubrique_options.php -text
