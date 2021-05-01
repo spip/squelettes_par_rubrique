@@ -1,9 +1,9 @@
 <paquet
 	prefix="squelettes_par_rubrique"
 	categorie="outil"
-	version="1.3.0"
+	version="1.4.0"
 	etat="stable"
-	compatibilite="[3.3.0-dev;3.3.*]"
+	compatibilite="[4.0.0-alpha;4.0.*]"
 	logo="squelettes_par_rubrique-32.png"
 >
 
