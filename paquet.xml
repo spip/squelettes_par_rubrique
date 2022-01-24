@@ -5,6 +5,7 @@
 	etat="dev"
 	compatibilite="[4.1.0-dev;4.1.*]"
 	logo="squelettes_par_rubrique-32.png"
+	documentation="https://www.spip.net/3445"
 >
 
 	<nom>Squelettes par Rubrique</nom>
